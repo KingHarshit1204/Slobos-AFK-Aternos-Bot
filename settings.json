@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HarshitKingdom.aternos.me",
-    "port": 63416,
+    "ip": "KingdomHarshit.aternos.me",
+    "port": 14887,
     "version": "1.19.3",
     "try-creative": false
   },
